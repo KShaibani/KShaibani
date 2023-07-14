@@ -5,7 +5,7 @@
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KShaibani&hide_progress=true)
 -->
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Khaled24)]()
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Khaled24&theme=transparent&hide_border=true)]()
 
 <!--
 **KShaibani/KShaibani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
